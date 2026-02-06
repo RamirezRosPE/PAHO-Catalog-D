@@ -1,0 +1,367 @@
+================================================================================
+PAHO BUSINESS INTELLIGENCE HUB - DASHBOARD CATALOG
+================================================================================
+
+INSTRUCTIONS FOR AI AGENT:
+This catalog contains complete information for 35 PAHO dashboards.
+Each entry includes: Name, Area, Description, Tags, Keywords, Use Cases, and URL.
+ALWAYS include the full URL in your responses as a clickeable link.
+
+================================================================================
+
+DASHBOARD #1
+--------------------------------------------------------------------------------
+NAME: Budget Activities 2024-2025
+BUSINESS AREA: CO Administration
+DESCRIPTION: Sin descripción disponible
+TAGS: Budget, Finance, Project managers, Cost center, Funding GAP, 2024-2025
+KEYWORDS: 2024, 2024-2025, 2025, activities, administration, budget, cost center, finance, funding gap, project managers
+USE CASES: Planificación presupuestaria | Seguimiento de gastos | Gestión de proyectos | Seguimiento de programas
+URL: https://app.powerbi.com/groups/me/reports/cf8f8d24-b5b7-4c3a-9540-8a979def9500/ReportSection7df7bc2615a26bce43eb?ctid=e610e79c-2ec0-4e0f-8a14-1e4b101519f7&experience=power-bi
+
+DASHBOARD #2
+--------------------------------------------------------------------------------
+NAME: PAHO - Daily Monitoring
+BUSINESS AREA: ITS
+DESCRIPTION: Real-time monitoring system of PAHO/PAHO's daily operations. Provides visibility into key operational metrics, performance indicators and alerts for day-to-day management of organizational activities.
+TAGS: Monitoring, Analytics, Metrics, PowerBI
+KEYWORDS: activities, alerts, analytics, daily, indicators, into, its, management, metrics, monitoring, operational, operations, organizational, paho, performance, powerbi, provides, real, system, time, visibility
+USE CASES: Monitoreo en tiempo real | Análisis de métricas operacionales
+URL: https://app.powerbi.com/groups/c0a2de30-3d6d-41ea-8c28-a754f0abce07/reports/871f951f-3b7f-445b-a9dd-a2d0670646e1/ad7d5ab3f3aa37c8e77d?ctid=e610e79c-2ec0-4e0f-8a14-1e4b101519f7&experience=power-bi
+
+DASHBOARD #3
+--------------------------------------------------------------------------------
+NAME: PAHO - Power BI Monitor Usage - V2
+BUSINESS AREA: ITS
+DESCRIPTION: Dashboard for analytics and monitoring the use of the Power BI platform in PAHO/OPS. Track adoption metrics, visualizations consulted, active users, report update frequency and report consumption patterns to optimize the use of the platform.
+TAGS: Monitoring, Analytics, Metrics, PowerBI, Usage, Tracking
+KEYWORDS: active, adoption, analytics, consulted, consumption, dashboard, frequency, its, metrics, monitor, monitoring, optimize, paho, patterns, platform, power, powerbi, report, track, tracking, update, usage, users, visualizations
+USE CASES: Monitoreo en tiempo real | Análisis de métricas operacionales | Reportes gerenciales | Análisis de datos
+URL: https://app.powerbi.com/groups/c0a2de30-3d6d-41ea-8c28-a754f0abce07/reports/052b41f7-47d9-4b1e-9d35-37b880cbf61e/29dc89593d8b593082aa?ctid=e610e79c-2ec0-4e0f-8a14-1e4b101519f7&experience=power-bi
+
+DASHBOARD #4
+--------------------------------------------------------------------------------
+NAME: Power BI Workspace Report
+BUSINESS AREA: ITS
+DESCRIPTION: Administrative report that provides a consolidated view of the inventory of elements within the Power BI Metrics workspace.
+TAGS: Administrative Report, Inventory , Metrics, Power BI, Workspace Management, Resource Administration, Monitoring
+KEYWORDS: administrative, administrative report, consolidated, elements, inventory, its, metrics, monitoring, power, power bi, provides, report, resource administration, view, within, workspace, workspace management
+USE CASES: Monitoreo en tiempo real | Análisis de métricas operacionales | Gestión de personal | Métricas de recursos humanos
+URL: https://app.powerbi.com/groups/c0a2de30-3d6d-41ea-8c28-a754f0abce07/reports/7858954a-3fcd-42da-af50-b6d4a525eca5/ReportSection1?ctid=e610e79c-2ec0-4e0f-8a14-1e4b101519f7&experience=power-bi
+
+DASHBOARD #5
+--------------------------------------------------------------------------------
+NAME: Cost Center HR Information (Workday)
+BUSINESS AREA: Human Resource
+DESCRIPTION: Personnel tracking and essential HR metrics for budgetary management by Cost Center.
+TAGS: Country Offices
+KEYWORDS: budgetary, center, cost, country offices, essential, human, information, management, metrics, personnel, resource, tracking, workday
+USE CASES: Planificación presupuestaria | Seguimiento de gastos | Monitoreo en tiempo real | Análisis de métricas operacionales
+URL: https://wd5.myworkday.com/paho/d/inst/12709$11/rel-task/3001$65.htmld
+
+DASHBOARD #6
+--------------------------------------------------------------------------------
+NAME: PAHO Administrators Dashboard
+BUSINESS AREA: Cost Center
+DESCRIPTION: This dashboard helps cost center administrators and their teams understand required compliance tasks, complete the monthly report, and manage compliance exceptions.
+TAGS: Compliance, Cost Center, Taks, Administrative, Reporting workflow
+KEYWORDS: administrative, administrators, center, complete, compliance, cost, cost center, dashboard, exceptions, helps, manage, monthly, paho, report, reporting workflow, required, taks, tasks, teams, understand
+USE CASES: Planificación presupuestaria | Seguimiento de gastos | Análisis por centro de costos | Reportes gerenciales
+URL: https://wd5.myworkday.com/paho/d/inst/23748$8/rel-task/3001$107.htmld#TABINDEX=0
+
+DASHBOARD #7
+--------------------------------------------------------------------------------
+NAME: PBE BWP Dashboard
+BUSINESS AREA: Planning, Budget and Evaluation
+DESCRIPTION: 
+Tracking of the Budget Implementation Rate for Corporate Outputs (Output Budget) and the overall status of PMA Projects
+TAGS: Budget, Finance, Projects, Monitoring, PMA, Rate, WorkDay
+KEYWORDS: budget, bwp, corporate, dashboard, evaluation, finance, implementation, monitoring, output, outputs, overall, pbe, planning, pma, projects, rate, status, tracking, workday
+USE CASES: Planificación presupuestaria | Seguimiento de gastos | Monitoreo en tiempo real | Análisis de métricas operacionales
+URL: https://wd5.myworkday.com/paho/d/inst/23748$35/rel-task/3001$107.htmld#TABINDEX=0
+
+DASHBOARD #8
+--------------------------------------------------------------------------------
+NAME: PBE Dashboards
+BUSINESS AREA: Planning, Budget and Evaluation
+DESCRIPTION: This dashboard provides an organizational overview of budget implementation and project status, highlighting allocation, expenditures, and progress toward achieving the Bureau’s compliance and performance objectives.
+TAGS: Budget, Administration, Projects, Monitoring, Organizational
+KEYWORDS: achieving, administration, allocation, budget, bureau, compliance, dashboard, dashboards, evaluation, expenditures, highlighting, implementation, monitoring, objectives, organizational, overview, pbe, performance, planning, progress, project, projects, provides, status, toward
+USE CASES: Planificación presupuestaria | Seguimiento de gastos | Monitoreo en tiempo real | Análisis de métricas operacionales
+URL: 
+https://app.powerbi.com/groups/me/apps/90a2c943-26ce-43eb-b22e-a2ccef9b75fb/reports/5c9801b9-df01-4488-b80d-d087a884a93f/cdceeee3010d2507d2b0?experience=power-bi
+
+DASHBOARD #9
+--------------------------------------------------------------------------------
+NAME: Country Office Administrators Dashboard
+BUSINESS AREA: Cost Center
+DESCRIPTION: This page summarizes the 2024-2025 budget execution, showing key financial indicators and progress to help stakeholders monitor spending and resource allocation.
+TAGS: Administration, Finance, Cost center, Budget, Monitoring, Expenditure, Resource, WorkDay
+KEYWORDS: 2024, 2025, administration, administrators, allocation, budget, center, cost, cost center, country, dashboard, execution, expenditure, finance, financial, help, indicators, monitor, monitoring, office, page, progress, resource, showing, spending, stakeholders, summarizes, workday
+USE CASES: Planificación presupuestaria | Seguimiento de gastos | Monitoreo en tiempo real | Análisis de métricas operacionales
+URL: https://wd5.myworkday.com/paho/d/inst/12709$11/rel-task/3001$65.htmld
+
+DASHBOARD #10
+--------------------------------------------------------------------------------
+NAME: PRO Country Offices
+BUSINESS AREA: Procurement and Supply Management (PRO)
+DESCRIPTION: Overview of key performance and operational metrics for the Country Offices, facilitating monitoring and decision-making.
+TAGS: Country offices, Metrics, Monitoring, Tracking, Operational, Decision
+KEYWORDS: country, country offices, decision, facilitating, making, management, metrics, monitoring, offices, operational, overview, performance, pro, procurement, supply, tracking
+USE CASES: Monitoreo en tiempo real | Análisis de métricas operacionales
+URL: https://app.powerbi.com/groups/me/apps/18e002b5-1d49-435b-9405-662111cdc4d2/reports/16f0486a-2639-4986-97a0-f68fdf9f12b9/a0f193646bcf13975a91?experience=power-bi
+
+DASHBOARD #11
+--------------------------------------------------------------------------------
+NAME: Data Quality Monitoring
+BUSINESS AREA: MSP
+DESCRIPTION: This page displays key information about the product and entity catalog, allowing users to quickly view categories, descriptions, and item statuses for efficient management and analysis.
+TAGS: Product, Catalog, Analytics
+KEYWORDS: about, allowing, analysis, analytics, catalog, categories, data, descriptions, displays, efficient, entity, information, item, management, monitoring, msp, page, product, quality, quickly, statuses, users, view
+USE CASES: Monitoreo en tiempo real | Análisis de métricas operacionales | Reportes gerenciales | Análisis de datos
+URL: https://app.powerbi.com/groups/cbb4ce05-c013-4da4-9517-09f50c24391a/reports/6f1f02e4-62c0-4c18-a5dc-6ce95ae72d11/17edf84828adbb7ec794?experience=power-bi
+
+DASHBOARD #12
+--------------------------------------------------------------------------------
+NAME: Loans and Donations
+BUSINESS AREA: MSP
+DESCRIPTION: This page provides a concise overview of key data on requests, products, and therapeutic areas to support monitoring and decision-making.
+TAGS: Monitoring, Data, Tracking, Management, Decision, Product, Request
+KEYWORDS: areas, concise, data, decision, donations, loans, making, management, monitoring, msp, overview, page, product, products, provides, request, requests, support, therapeutic, tracking
+USE CASES: Monitoreo en tiempo real | Análisis de métricas operacionales | Reportes gerenciales | Análisis de datos
+URL: https://app.powerbi.com/groups/me/reports/36098383-d729-4ce9-a134-2b6981dea84f/ReportSection2a0c37bef9a04a8b4588?ctid=e610e79c-2ec0-4e0f-8a14-1e4b101519f7&experience=power-bi
+
+DASHBOARD #13
+--------------------------------------------------------------------------------
+NAME: CorrespondenceTrackingReport
+
+
+
+BUSINESS AREA: Enterprise Portal Administration and Development 
+DESCRIPTION: This page displays archived correspondence records with completed status, including details such as correspondence type, subject, reference, entity, classification, registration date, and PDF links, organized by entity and year.
+
+TAGS: Correspondence, Records, Document
+KEYWORDS: administration, archived, classification, completed, correspondence, correspondencetrackingreport, date, details, development, displays, document, enterprise, entity, including, page, portal, records, reference, registration, status, subject, such, type
+USE CASES: Análisis de datos | Reportes gerenciales
+URL: https://app.powerbi.com/groups/ed123fc9-6f69-4740-8d58-8e1c5b8b4659/reports/33baae7b-e5c3-41b0-ad2e-dc51a351b419/a228ad307e05c979ead6?experience=power-bi
+
+DASHBOARD #14
+--------------------------------------------------------------------------------
+NAME: RM Data Model
+BUSINESS AREA: Resource Mobilization, ERP
+DESCRIPTION: This page provides an overview of total award amounts, number of awards, and partner contributions by category, year, and country for selected funds since 2016.
+TAGS: Funding Amounts, Partner Contributions, Category
+KEYWORDS: 2016, amounts, award, awards, category, contributions, country, data, erp, funding amounts, funds, mobilization, model, number, overview, page, partner, partner contributions, provides, resource, selected, since, total, year
+USE CASES: Análisis de datos | Reportes gerenciales
+URL: https://app.powerbi.com/groups/dec51e38-5135-43df-a664-8583743d85b1/reports/2f1bc19f-4d60-447a-8ce5-31cace80211e?experience=power-bi
+
+DASHBOARD #15
+--------------------------------------------------------------------------------
+NAME: VC Report
+BUSINESS AREA: Resource Mobilization, ERP
+DESCRIPTION: This page provides a summary of resource mobilization efforts, highlighting total partner contributions, number of partners, projects, and entity submissions within the reporting period.
+TAGS: Resource, Partner, Contributions, Projects
+KEYWORDS: contributions, efforts, entity, erp, highlighting, mobilization, number, page, partner, partners, period, projects, provides, report, reporting, resource, submissions, summary, total, within
+USE CASES: Gestión de personal | Métricas de recursos humanos | Gestión de proyectos | Seguimiento de programas
+URL: https://app.powerbi.com/groups/dec51e38-5135-43df-a664-8583743d85b1/reports/3ccadaca-4df3-4d80-a5d2-ca66bcbe30d5?experience=power-bi
+
+DASHBOARD #16
+--------------------------------------------------------------------------------
+NAME: SM_Literatura_eng
+BUSINESS AREA: HSS - Health and Migration
+DESCRIPTION: This page displays the total number of literature records related to sexual and reproductive health, with a current count of 62 entries.
+TAGS: Sexual & Reproductive Health, Scientific Literature, Bibliographic Resources, Indicators
+KEYWORDS: bibliographic resources, count, current, displays, entries, health, hss, indicators, literature, migration, number, page, records, related, reproductive, scientific literature, sexual, sexual & reproductive health, sm_literatura_eng, total
+USE CASES: Gestión de personal | Métricas de recursos humanos
+URL: https://app.powerbi.com/groups/373515fb-261a-4f06-9573-40c2a35e2fbb/reports/32a9b002-4893-4bed-acd7-18bc6e77590a?experience=power-bi
+
+DASHBOARD #17
+--------------------------------------------------------------------------------
+NAME: SM_MarcosPoliticos_eng
+BUSINESS AREA: HSS - Health and Migration
+DESCRIPTION: This page provides an overview of political and legal frameworks related to health and migration across 19 Latin American countries, summarizing key documents, laws, and policies by country and region.
+
+TAGS: Health & Migration, Legal & Political Frameworks, Health Policies, Rights and Laws
+KEYWORDS: across, american, countries, country, documents, frameworks, health, health & migration, health policies, hss, latin, laws, legal, legal & political frameworks, migration, overview, page, policies, political, provides, region, related, rights and laws, sm_marcospoliticos_eng, summarizing
+USE CASES: Análisis de datos | Reportes gerenciales
+URL: https://app.powerbi.com/groups/373515fb-261a-4f06-9573-40c2a35e2fbb/reports/8e7c6612-626c-423e-baa4-909541a9c277?experience=power-bi
+
+DASHBOARD #18
+--------------------------------------------------------------------------------
+NAME: SM_SistemasInformacion_eng
+BUSINESS AREA: HSS - Health and Migration
+DESCRIPTION: This page summarizes 90 records on migrant health in Chile, Colombia, and Peru, highlighting key health issues, data sources, and main topics such as healthcare access and living conditions.
+TAGS: Migrant Health, Migrant, Living Conditions
+KEYWORDS: access, chile, colombia, data, health, healthcare, highlighting, hss, issues, living, living conditions, main, migrant, migrant health, migration, page, peru, records, sm_sistemasinformacion_eng, sources, such, summarizes, topics
+USE CASES: Reportes gerenciales | Análisis de datos
+URL: https://app.powerbi.com/groups/373515fb-261a-4f06-9573-40c2a35e2fbb/reports/f06fc876-7ec8-453a-9e69-061f80df8d86?experience=power-bi
+
+DASHBOARD #19
+--------------------------------------------------------------------------------
+NAME: Def_v3.11
+BUSINESS AREA: ITS Security
+DESCRIPTION: This page provides key metrics on user activity, reporting rates, security awareness, and organizational performance for 2024. It includes completion percentages, percentile rankings, phishing exercise outcomes, and device encryption status.
+TAGS: Performance Metrics (2024), Security Awareness, User Activity
+KEYWORDS: 2024, activity, awareness, completion, def_v3, exercise, includes, its, metrics, organizational, page, percentages, percentile, performance, performance metrics (2024), phishing, provides, rankings, rates, reporting, security, security awareness, user, user activity
+USE CASES: Monitoreo en tiempo real | Análisis de métricas operacionales | Reportes gerenciales | Análisis de datos
+URL: https://app.powerbi.com/groups/000c53a7-1309-4201-8a67-dcd527bfa9ba/reports/31af64a6-0b38-41ae-9ca7-ede3f80bf9ea/ReportSection?experience=power-bi
+
+DASHBOARD #20
+--------------------------------------------------------------------------------
+NAME: PAHO - Vulnerability Management Dashboard
+BUSINESS AREA: ITS Security
+DESCRIPTION: Overview of vulnerabilities, exposed devices, and risk levels across the organization to support vulnerability management and remediation prioritization.
+TAGS: Vulnerability Management, Risk & Exposure
+KEYWORDS: across, dashboard, devices, exposed, its, levels, management, organization, overview, paho, prioritization, remediation, risk, risk & exposure, security, support, vulnerabilities, vulnerability, vulnerability management
+USE CASES: Análisis de datos | Reportes gerenciales
+URL: https://app.powerbi.com/links/3M_KDIW7bB?ctid=e610e79c-2ec0-4e0f-8a14-1e4b101519f7&pbi_source=linkShare
+
+DASHBOARD #21
+--------------------------------------------------------------------------------
+NAME: PBE – Output Budget to Actuals
+BUSINESS AREA: Planning, Budget and Evaluation
+DESCRIPTION: Report that shows the comparison between the approved budget and its actual execution (pre-obligations, obligations, and expenditures) at the Output level, within the Strategic Plan period.
+TAGS: Budget, Project managers
+KEYWORDS: actual, actuals, approved, between, budget, comparison, evaluation, execution, expenditures, level, obligations, output, pbe, period, plan, planning, project managers, report, shows, strategic, within
+USE CASES: Planificación presupuestaria | Seguimiento de gastos | Gestión de proyectos | Seguimiento de programas
+URL: https://wd5.myworkday.com/paho/d/inst/1422$3753/rel-task/3001$14.htmld 
+
+DASHBOARD #22
+--------------------------------------------------------------------------------
+NAME: PBE - Project Plan Task Budget to Actuals
+BUSINESS AREA: Planning, Budget and Evaluation
+DESCRIPTION: Report that presents planned funds at the Task level and their execution, including pre-obligations, obligations, and actual expenditures, for the selected plan period.
+TAGS: Budget, Task, Planning
+KEYWORDS: actual, actuals, budget, evaluation, execution, expenditures, funds, including, level, obligations, pbe, period, plan, planned, planning, presents, project, report, selected, task
+USE CASES: Planificación presupuestaria | Seguimiento de gastos | Reportes gerenciales | Análisis de datos
+URL: https://wd5.myworkday.com/paho/d/inst/1422$3754/rel-task/3001$14.htmld
+
+DASHBOARD #23
+--------------------------------------------------------------------------------
+NAME: PBE - Project (PS) Status and Comments
+BUSINESS AREA: Planning, Budget and Evaluation
+DESCRIPTION: Report that supports operational monitoring by showing project status, progress updates, and management comments across Program and Special Program projects.
+TAGS: Activity, Projects, Budget
+KEYWORDS: across, activity, budget, comments, evaluation, management, monitoring, operational, pbe, planning, program, progress, project, projects, report, showing, special, status, supports, updates
+USE CASES: Planificación presupuestaria | Seguimiento de gastos | Monitoreo en tiempo real | Análisis de métricas operacionales
+URL: https://wd5.myworkday.com/paho/d/inst/1422$3789/rel-task/3001$14.htmld
+
+DASHBOARD #24
+--------------------------------------------------------------------------------
+NAME: PAHO-PRO-505 Open Purchase Order Lines
+BUSINESS AREA: Procurement 
+DESCRIPTION: Report that supports operational tracking by listing open purchase order lines and their current status, enabling monitoring of pending and in-progress procurement activities.
+TAGS: Order, Purchase, Administration
+KEYWORDS: 505, activities, administration, current, enabling, lines, listing, monitoring, open, operational, order, paho, pending, pro, procurement, progress, purchase, report, status, supports, tracking
+USE CASES: Monitoreo en tiempo real | Análisis de métricas operacionales | Gestión de compras | Análisis de proveedores
+URL: https://wd5.myworkday.com/paho/d/inst/1422$2275/rel-task/3001$14.htmld
+
+DASHBOARD #25
+--------------------------------------------------------------------------------
+NAME: PAHO-FIN-601 Find Spend Authorizations
+BUSINESS AREA: FRM
+DESCRIPTION: Query tool to locate and filter expense authorizations by company, cost center, state and specific dates. Allows detailed tracking of the life cycle of programmed expenditures
+TAGS: Administration, Finance
+KEYWORDS: 601, administration, allows, authorizations, center, company, cost, cycle, dates, detailed, expenditures, expense, filter, fin, finance, find, frm, life, locate, paho, programmed, query, specific, spend, state, tool, tracking
+USE CASES: Planificación presupuestaria | Seguimiento de gastos | Gestión de proyectos | Seguimiento de programas
+URL: https://wd5.myworkday.com/paho/d/inst/1422$1310/rel-task/3001$14.htmld
+
+DASHBOARD #26
+--------------------------------------------------------------------------------
+NAME: PAHO-FIN-205 Find Journal Lines with Status
+BUSINESS AREA: FRM
+DESCRIPTION: Journal Lines by Status Detailed query of fiscal year journal entries, filterable by status, period, and cost center.
+TAGS: Administration, Finance, Budget
+KEYWORDS: 205, administration, budget, center, cost, detailed, entries, filterable, fin, finance, find, fiscal, frm, journal, lines, paho, period, query, status, year
+USE CASES: Planificación presupuestaria | Seguimiento de gastos | Análisis por centro de costos
+URL: https://wd5.myworkday.com/paho/d/inst/1422$1125/rel-task/3001$14.htmld
+
+DASHBOARD #27
+--------------------------------------------------------------------------------
+NAME: PAHO - Find Workers
+BUSINESS AREA: HRM
+DESCRIPTION: Search and filter personnel profiles by region, cost center, job title, and location to access contact information and worker details.
+TAGS: Human Resources
+KEYWORDS: access, center, contact, cost, details, filter, find, hrm, human resources, information, location, paho, personnel, profiles, region, search, title, worker, workers
+USE CASES: Planificación presupuestaria | Seguimiento de gastos | Gestión de personal | Métricas de recursos humanos
+URL: https://wd5.myworkday.com/paho/d/inst/1422$1433/rel-task/3001$14.htmld
+
+DASHBOARD #28
+--------------------------------------------------------------------------------
+NAME: PAHO HRM Mandatory Courses Status
+BUSINESS AREA: HRM
+DESCRIPTION: Monitor worker compliance for mandatory training like BSAFE and Cybersecurity by cost center and supervisor.
+TAGS: Human Resources
+KEYWORDS: bsafe, center, compliance, cost, courses, cybersecurity, hrm, human resources, like, mandatory, monitor, paho, status, supervisor, training, worker
+USE CASES: Planificación presupuestaria | Seguimiento de gastos | Gestión de personal | Métricas de recursos humanos
+URL: https://wd5.myworkday.com/paho/d/inst/1422$6880/rel-task/3001$14.htmld
+
+DASHBOARD #29
+--------------------------------------------------------------------------------
+NAME: PAHO Administrator Dashboard
+BUSINESS AREA: HRM
+DESCRIPTION: Comprehensive panel for tracking budget implementation rates, monthly compliance, and financial obligation monitoring. Comprehensive panel for tracking budget implementation rates, monthly compliance, and financial obligation monitoring.
+TAGS: Human Resources
+KEYWORDS: administrator, budget, compliance, comprehensive, dashboard, financial, hrm, human resources, implementation, monitoring, monthly, obligation, paho, panel, rates, tracking
+USE CASES: Planificación presupuestaria | Seguimiento de gastos | Monitoreo en tiempo real | Análisis de métricas operacionales
+URL: https://wd5.myworkday.com/paho/d/inst/23748$8/rel-task/3001$107.htmld#TABINDEX=0
+
+DASHBOARD #30
+--------------------------------------------------------------------------------
+NAME: PAHO Procurement Dashboard
+BUSINESS AREA: Procurement 
+DESCRIPTION: View purchase data by fund, category and supplier. Includes quick access to create purchase orders, receipts, and requisitions. Visualizes procurement data by fund, category, and supplier.
+TAGS: Projects, Product, PMA
+KEYWORDS: access, category, create, dashboard, data, fund, includes, orders, paho, pma, procurement, product, projects, purchase, quick, receipts, requisitions, supplier, view, visualizes
+USE CASES: Gestión de compras | Análisis de proveedores | Gestión de proyectos | Seguimiento de programas
+URL: https://wd5.myworkday.com/paho/d/inst/23748$4/rel-task/3001$107.htmld#TABINDEX=0
+
+DASHBOARD #31
+--------------------------------------------------------------------------------
+NAME: PMIS Useful Reports
+BUSINESS AREA: ALL
+DESCRIPTION: Central repository of custom reports categorized by Human Resources, Procurement, Finance, Budgeting, and Learning for easy access to key data.
+TAGS: Human Resources, Budget, Finance, Expendidure, Learning
+KEYWORDS: access, all, budget, budgeting, categorized, central, custom, data, easy, expendidure, finance, human, human resources, learning, pmis, procurement, reports, repository, resources, useful
+USE CASES: Planificación presupuestaria | Seguimiento de gastos | Gestión de personal | Métricas de recursos humanos
+URL: https://wd5.myworkday.com/paho/d/inst/12709$3/rel-task/3001$65.htmld
+
+DASHBOARD #32
+--------------------------------------------------------------------------------
+NAME: PAHO PWRs and Center Directors
+BUSINESS AREA: ALL
+DESCRIPTION: Detailed directory of PAHO/WHO Representatives and Center Directors, including their duty station, contact information, and office addresses.
+TAGS: Administration, Catalog
+KEYWORDS: addresses, administration, all, catalog, center, contact, detailed, directors, directory, duty, including, information, office, paho, pwrs, representatives, station
+USE CASES: Análisis de datos | Reportes gerenciales
+URL: https://wd5.myworkday.com/paho/d/task/1422$2513.htmld
+
+DASHBOARD #33
+--------------------------------------------------------------------------------
+NAME: PAHO HQ, Country Office and Center Administrators
+BUSINESS AREA: ALL
+DESCRIPTION: Operational directory of regional administrators with contact data and location by office and cost center. Operational directory of regional administrators with contact data and location by office and cost center.
+TAGS: Administration, Catalog
+KEYWORDS: administration, administrators, all, catalog, center, contact, cost, country, data, directory, location, office, operational, paho, regional
+USE CASES: Planificación presupuestaria | Seguimiento de gastos | Análisis por centro de costos | Reportes gerenciales
+URL: https://wd5.myworkday.com/paho/d/task/1422$2058.htmld
+
+DASHBOARD #34
+--------------------------------------------------------------------------------
+NAME: Countries / Centers (Intranet Resource)
+BUSINESS AREA: ALL
+DESCRIPTION: Centralized navigation hub to access specific information for each country, specialized centers, and subregional offices.
+TAGS: Administration, Catalog
+KEYWORDS: access, administration, all, catalog, centers, centralized, countries, country, each, information, intranet, navigation, offices, resource, specialized, specific, subregional
+USE CASES: Análisis de datos | Reportes gerenciales
+URL: https://paho.sharepoint.com/sites/Intra-Countries-Centers
+
+DASHBOARD #35
+--------------------------------------------------------------------------------
+NAME: Tables rows Traking
+BUSINESS AREA: ITS
+DESCRIPTION: This page supports daily operational monitoring by comparing transactions from the latest day with the previous one, enabling early detection of variations and timely operational control.
+TAGS: Monitoring, Metrics, PowerBI, Risk
+KEYWORDS: comparing, control, daily, detection, early, enabling, its, latest, metrics, monitoring, operational, page, powerbi, previous, risk, rows, supports, tables, timely, traking, transactions, variations
+USE CASES: Monitoreo en tiempo real | Análisis de métricas operacionales
+URL: https://app.powerbi.com/groups/c0a2de30-3d6d-41ea-8c28-a754f0abce07/reports/871f951f-3b7f-445b-a9dd-a2d0670646e1/93d318d3a1dcee45ecbc?experience=power-bi
