@@ -1,0 +1,582 @@
+================================================================================
+PAHO BUSINESS INTELLIGENCE HUB - OFFICIAL DASHBOARD CATALOG
+================================================================================
+
+TOTAL DASHBOARDS: 35
+BUSINESS AREAS: 15
+
+CRITICAL INSTRUCTIONS FOR AI AGENTS:
+- This is the COMPLETE and AUTHORITATIVE list of ALL 35 PAHO dashboards
+- NO OTHER DASHBOARDS EXIST beyond those listed here
+- NEVER invent, create, or suggest dashboards not in this list
+- ALWAYS copy URLs EXACTLY as shown
+- If a dashboard is not listed here, it DOES NOT EXIST
+
+================================================================================
+DASHBOARD CATALOG - ORGANIZED BY BUSINESS AREA
+================================================================================
+
+
+================================================================================
+BUSINESS AREA: ALL
+TOTAL DASHBOARDS IN THIS AREA: 4
+================================================================================
+
+DASHBOARD #1
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+NAME: PMIS Useful Reports
+BUSINESS AREA: ALL
+TAGS: Human Resources
+Budget
+Finance
+Expendidure
+Learning
+DESCRIPTION: Central repository of custom reports categorized by Human Resources, Procurement, Finance, Budgeting, and Learning for easy access to key data.
+URL: https://wd5.myworkday.com/paho/d/inst/12709$3/rel-task/3001$65.htmld
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+DASHBOARD #2
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+NAME: PAHO PWRs and Center Directors
+BUSINESS AREA: ALL
+TAGS: Administration
+Catalog
+DESCRIPTION: Detailed directory of PAHO/WHO Representatives and Center Directors, including their duty station, contact information, and office addresses.
+URL: https://wd5.myworkday.com/paho/d/task/1422$2513.htmld
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+DASHBOARD #3
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+NAME: PAHO HQ, Country Office and Center Administrators
+BUSINESS AREA: ALL
+TAGS: Administration
+Catalog
+DESCRIPTION: Operational directory of regional administrators with contact data and location by office and cost center. Operational directory of regional administrators with contact data and location by office and cost center.
+URL: https://wd5.myworkday.com/paho/d/task/1422$2058.htmld
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+DASHBOARD #4
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+NAME: Countries / Centers (Intranet Resource)
+BUSINESS AREA: ALL
+TAGS: Administration
+Catalog
+DESCRIPTION: Centralized navigation hub to access specific information for each country, specialized centers, and subregional offices.
+URL: https://paho.sharepoint.com/sites/Intra-Countries-Centers
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+================================================================================
+BUSINESS AREA: CO Administration
+TOTAL DASHBOARDS IN THIS AREA: 1
+================================================================================
+
+DASHBOARD #5
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+NAME: Budget Activities 2024-2025
+BUSINESS AREA: CO Administration
+TAGS: Budget
+Finance
+Project managers
+Cost center
+Funding GAP
+2024-2025
+DESCRIPTION: Sin descripción disponible
+URL: https://app.powerbi.com/groups/me/reports/cf8f8d24-b5b7-4c3a-9540-8a979def9500/ReportSection7df7bc2615a26bce43eb?ctid=e610e79c-2ec0-4e0f-8a14-1e4b101519f7&experience=power-bi
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+================================================================================
+BUSINESS AREA: Cost Center
+TOTAL DASHBOARDS IN THIS AREA: 2
+================================================================================
+
+DASHBOARD #6
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+NAME: PAHO Administrators Dashboard
+BUSINESS AREA: Cost Center
+TAGS: Compliance
+Cost Center
+Taks
+Administrative
+Reporting workflow
+DESCRIPTION: This dashboard helps cost center administrators and their teams understand required compliance tasks, complete the monthly report, and manage compliance exceptions.
+URL: https://wd5.myworkday.com/paho/d/inst/23748$8/rel-task/3001$107.htmld#TABINDEX=0
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+DASHBOARD #7
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+NAME: Country Office Administrators Dashboard
+BUSINESS AREA: Cost Center
+TAGS: Administration
+Finance
+Cost center
+Budget
+Monitoring
+Expenditure
+Resource
+WorkDay
+DESCRIPTION: This page summarizes the 2024-2025 budget execution, showing key financial indicators and progress to help stakeholders monitor spending and resource allocation.
+URL: https://wd5.myworkday.com/paho/d/inst/12709$11/rel-task/3001$65.htmld
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+================================================================================
+BUSINESS AREA: Enterprise Portal Administration and Development
+TOTAL DASHBOARDS IN THIS AREA: 1
+================================================================================
+
+DASHBOARD #8
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+NAME: CorrespondenceTrackingReport
+BUSINESS AREA: Enterprise Portal Administration and Development
+TAGS: Correspondence
+Records
+Document
+DESCRIPTION: This page displays archived correspondence records with completed status, including details such as correspondence type, subject, reference, entity, classification, registration date, and PDF links, organized by entity and year.
+URL: https://app.powerbi.com/groups/ed123fc9-6f69-4740-8d58-8e1c5b8b4659/reports/33baae7b-e5c3-41b0-ad2e-dc51a351b419/a228ad307e05c979ead6?experience=power-bi
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+================================================================================
+BUSINESS AREA: FRM
+TOTAL DASHBOARDS IN THIS AREA: 2
+================================================================================
+
+DASHBOARD #9
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+NAME: PAHO-FIN-601 Find Spend Authorizations
+BUSINESS AREA: FRM
+TAGS: Administration
+Finance
+DESCRIPTION: Query tool to locate and filter expense authorizations by company, cost center, state and specific dates. Allows detailed tracking of the life cycle of programmed expenditures
+URL: https://wd5.myworkday.com/paho/d/inst/1422$1310/rel-task/3001$14.htmld
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+DASHBOARD #10
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+NAME: PAHO-FIN-205 Find Journal Lines with Status
+BUSINESS AREA: FRM
+TAGS: Administration
+Finance
+Budget
+DESCRIPTION: Journal Lines by Status Detailed query of fiscal year journal entries, filterable by status, period, and cost center.
+URL: https://wd5.myworkday.com/paho/d/inst/1422$1125/rel-task/3001$14.htmld
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+================================================================================
+BUSINESS AREA: HRM
+TOTAL DASHBOARDS IN THIS AREA: 3
+================================================================================
+
+DASHBOARD #11
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+NAME: PAHO - Find Workers
+BUSINESS AREA: HRM
+TAGS: Human Resources
+DESCRIPTION: Search and filter personnel profiles by region, cost center, job title, and location to access contact information and worker details.
+URL: https://wd5.myworkday.com/paho/d/inst/1422$1433/rel-task/3001$14.htmld
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+DASHBOARD #12
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+NAME: PAHO HRM Mandatory Courses Status
+BUSINESS AREA: HRM
+TAGS: Human Resources
+DESCRIPTION: Monitor worker compliance for mandatory training like BSAFE and Cybersecurity by cost center and supervisor.
+URL: https://wd5.myworkday.com/paho/d/inst/1422$6880/rel-task/3001$14.htmld
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+DASHBOARD #13
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+NAME: PAHO Administrator Dashboard
+BUSINESS AREA: HRM
+TAGS: Human Resources
+DESCRIPTION: Comprehensive panel for tracking budget implementation rates, monthly compliance, and financial obligation monitoring. Comprehensive panel for tracking budget implementation rates, monthly compliance, and financial obligation monitoring.
+URL: https://wd5.myworkday.com/paho/d/inst/23748$8/rel-task/3001$107.htmld#TABINDEX=0
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+================================================================================
+BUSINESS AREA: HSS - Health and Migration
+TOTAL DASHBOARDS IN THIS AREA: 3
+================================================================================
+
+DASHBOARD #14
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+NAME: SM_Literatura_eng
+BUSINESS AREA: HSS - Health and Migration
+TAGS: Sexual & Reproductive Health
+Scientific Literature
+Bibliographic Resources
+Indicators
+DESCRIPTION: This page displays the total number of literature records related to sexual and reproductive health, with a current count of 62 entries.
+URL: https://app.powerbi.com/groups/373515fb-261a-4f06-9573-40c2a35e2fbb/reports/32a9b002-4893-4bed-acd7-18bc6e77590a?experience=power-bi
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+DASHBOARD #15
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+NAME: SM_MarcosPoliticos_eng
+BUSINESS AREA: HSS - Health and Migration
+TAGS: Health & Migration
+Legal & Political Frameworks
+Health Policies
+Rights and Laws
+DESCRIPTION: This page provides an overview of political and legal frameworks related to health and migration across 19 Latin American countries, summarizing key documents, laws, and policies by country and region.
+URL: https://app.powerbi.com/groups/373515fb-261a-4f06-9573-40c2a35e2fbb/reports/8e7c6612-626c-423e-baa4-909541a9c277?experience=power-bi
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+DASHBOARD #16
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+NAME: SM_SistemasInformacion_eng
+BUSINESS AREA: HSS - Health and Migration
+TAGS: Migrant Health
+Migrant
+Living Conditions
+DESCRIPTION: This page summarizes 90 records on migrant health in Chile, Colombia, and Peru, highlighting key health issues, data sources, and main topics such as healthcare access and living conditions.
+URL: https://app.powerbi.com/groups/373515fb-261a-4f06-9573-40c2a35e2fbb/reports/f06fc876-7ec8-453a-9e69-061f80df8d86?experience=power-bi
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+================================================================================
+BUSINESS AREA: Human Resource
+TOTAL DASHBOARDS IN THIS AREA: 1
+================================================================================
+
+DASHBOARD #17
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+NAME: Cost Center HR Information (Workday)
+BUSINESS AREA: Human Resource
+TAGS: Country Offices
+DESCRIPTION: Personnel tracking and essential HR metrics for budgetary management by Cost Center.
+URL: https://wd5.myworkday.com/paho/d/inst/12709$11/rel-task/3001$65.htmld
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+================================================================================
+BUSINESS AREA: ITS
+TOTAL DASHBOARDS IN THIS AREA: 4
+================================================================================
+
+DASHBOARD #18
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+NAME: PAHO - Daily Monitoring
+BUSINESS AREA: ITS
+TAGS: Monitoring
+Analytics
+Metrics
+PowerBI
+DESCRIPTION: Real-time monitoring system of PAHO/PAHO's daily operations. Provides visibility into key operational metrics, performance indicators and alerts for day-to-day management of organizational activities.
+URL: https://app.powerbi.com/groups/c0a2de30-3d6d-41ea-8c28-a754f0abce07/reports/871f951f-3b7f-445b-a9dd-a2d0670646e1/ad7d5ab3f3aa37c8e77d?ctid=e610e79c-2ec0-4e0f-8a14-1e4b101519f7&experience=power-bi
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+DASHBOARD #19
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+NAME: PAHO - Power BI Monitor Usage - V2
+BUSINESS AREA: ITS
+TAGS: Monitoring
+Analytics
+Metrics
+PowerBI
+Usage
+Tracking
+DESCRIPTION: Dashboard for analytics and monitoring the use of the Power BI platform in PAHO/OPS. Track adoption metrics, visualizations consulted, active users, report update frequency and report consumption patterns to optimize the use of the platform.
+URL: https://app.powerbi.com/groups/c0a2de30-3d6d-41ea-8c28-a754f0abce07/reports/052b41f7-47d9-4b1e-9d35-37b880cbf61e/29dc89593d8b593082aa?ctid=e610e79c-2ec0-4e0f-8a14-1e4b101519f7&experience=power-bi
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+DASHBOARD #20
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+NAME: Power BI Workspace Report
+BUSINESS AREA: ITS
+TAGS: Administrative Report
+Inventory 
+Metrics
+Power BI
+Workspace Management
+Resource Administration
+Monitoring
+DESCRIPTION: Administrative report that provides a consolidated view of the inventory of elements within the Power BI Metrics workspace.
+URL: https://app.powerbi.com/groups/c0a2de30-3d6d-41ea-8c28-a754f0abce07/reports/7858954a-3fcd-42da-af50-b6d4a525eca5/ReportSection1?ctid=e610e79c-2ec0-4e0f-8a14-1e4b101519f7&experience=power-bi
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+DASHBOARD #21
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+NAME: Tables rows Traking
+BUSINESS AREA: ITS
+TAGS: Monitoring
+Metrics
+PowerBI
+Risk
+DESCRIPTION: This page supports daily operational monitoring by comparing transactions from the latest day with the previous one, enabling early detection of variations and timely operational control.
+URL: https://app.powerbi.com/groups/c0a2de30-3d6d-41ea-8c28-a754f0abce07/reports/871f951f-3b7f-445b-a9dd-a2d0670646e1/93d318d3a1dcee45ecbc?experience=power-bi
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+================================================================================
+BUSINESS AREA: ITS Security
+TOTAL DASHBOARDS IN THIS AREA: 2
+================================================================================
+
+DASHBOARD #22
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+NAME: Def_v3.11
+BUSINESS AREA: ITS Security
+TAGS: Performance Metrics (2024)
+Security Awareness
+User Activity
+DESCRIPTION: This page provides key metrics on user activity, reporting rates, security awareness, and organizational performance for 2024. It includes completion percentages, percentile rankings, phishing exercise outcomes, and device encryption status.
+URL: https://app.powerbi.com/groups/000c53a7-1309-4201-8a67-dcd527bfa9ba/reports/31af64a6-0b38-41ae-9ca7-ede3f80bf9ea/ReportSection?experience=power-bi
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+DASHBOARD #23
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+NAME: PAHO - Vulnerability Management Dashboard
+BUSINESS AREA: ITS Security
+TAGS: Vulnerability Management
+Risk & Exposure
+DESCRIPTION: Overview of vulnerabilities, exposed devices, and risk levels across the organization to support vulnerability management and remediation prioritization.
+URL: https://app.powerbi.com/links/3M_KDIW7bB?ctid=e610e79c-2ec0-4e0f-8a14-1e4b101519f7&pbi_source=linkShare
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+================================================================================
+BUSINESS AREA: MSP
+TOTAL DASHBOARDS IN THIS AREA: 2
+================================================================================
+
+DASHBOARD #24
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+NAME: Data Quality Monitoring
+BUSINESS AREA: MSP
+TAGS: Product
+Catalog
+Analytics
+DESCRIPTION: This page displays key information about the product and entity catalog, allowing users to quickly view categories, descriptions, and item statuses for efficient management and analysis.
+URL: https://app.powerbi.com/groups/cbb4ce05-c013-4da4-9517-09f50c24391a/reports/6f1f02e4-62c0-4c18-a5dc-6ce95ae72d11/17edf84828adbb7ec794?experience=power-bi
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+DASHBOARD #25
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+NAME: Loans and Donations
+BUSINESS AREA: MSP
+TAGS: Monitoring
+Data
+Tracking
+Management
+Decision
+Product
+Request
+DESCRIPTION: This page provides a concise overview of key data on requests, products, and therapeutic areas to support monitoring and decision-making.
+URL: https://app.powerbi.com/groups/me/reports/36098383-d729-4ce9-a134-2b6981dea84f/ReportSection2a0c37bef9a04a8b4588?ctid=e610e79c-2ec0-4e0f-8a14-1e4b101519f7&experience=power-bi
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+================================================================================
+BUSINESS AREA: Planning, Budget and Evaluation
+TOTAL DASHBOARDS IN THIS AREA: 5
+================================================================================
+
+DASHBOARD #26
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+NAME: PBE BWP Dashboard
+BUSINESS AREA: Planning, Budget and Evaluation
+TAGS: Budget
+Finance
+Projects
+Monitoring
+PMA
+Rate
+WorkDay
+DESCRIPTION: Tracking of the Budget Implementation Rate for Corporate Outputs (Output Budget) and the overall status of PMA Projects
+URL: https://wd5.myworkday.com/paho/d/inst/23748$35/rel-task/3001$107.htmld#TABINDEX=0
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+DASHBOARD #27
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+NAME: PBE Dashboards
+BUSINESS AREA: Planning, Budget and Evaluation
+TAGS: Budget
+Administration
+Projects
+Monitoring
+Organizational
+DESCRIPTION: This dashboard provides an organizational overview of budget implementation and project status, highlighting allocation, expenditures, and progress toward achieving the Bureau’s compliance and performance objectives.
+URL: https://app.powerbi.com/groups/me/apps/90a2c943-26ce-43eb-b22e-a2ccef9b75fb/reports/5c9801b9-df01-4488-b80d-d087a884a93f/cdceeee3010d2507d2b0?experience=power-bi
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+DASHBOARD #28
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+NAME: PBE – Output Budget to Actuals
+BUSINESS AREA: Planning, Budget and Evaluation
+TAGS: Budget
+Project managers
+DESCRIPTION: Report that shows the comparison between the approved budget and its actual execution (pre-obligations, obligations, and expenditures) at the Output level, within the Strategic Plan period.
+URL: https://wd5.myworkday.com/paho/d/inst/1422$3753/rel-task/3001$14.htmld
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+DASHBOARD #29
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+NAME: PBE - Project Plan Task Budget to Actuals
+BUSINESS AREA: Planning, Budget and Evaluation
+TAGS: Budget
+Task
+Planning
+DESCRIPTION: Report that presents planned funds at the Task level and their execution, including pre-obligations, obligations, and actual expenditures, for the selected plan period.
+URL: https://wd5.myworkday.com/paho/d/inst/1422$3754/rel-task/3001$14.htmld
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+DASHBOARD #30
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+NAME: PBE - Project (PS) Status and Comments
+BUSINESS AREA: Planning, Budget and Evaluation
+TAGS: Activity
+Projects
+Budget
+DESCRIPTION: Report that supports operational monitoring by showing project status, progress updates, and management comments across Program and Special Program projects.
+URL: https://wd5.myworkday.com/paho/d/inst/1422$3789/rel-task/3001$14.htmld
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+================================================================================
+BUSINESS AREA: Procurement
+TOTAL DASHBOARDS IN THIS AREA: 2
+================================================================================
+
+DASHBOARD #31
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+NAME: PAHO-PRO-505 Open Purchase Order Lines
+BUSINESS AREA: Procurement
+TAGS: Order
+Purchase
+Administration
+DESCRIPTION: Report that supports operational tracking by listing open purchase order lines and their current status, enabling monitoring of pending and in-progress procurement activities.
+URL: https://wd5.myworkday.com/paho/d/inst/1422$2275/rel-task/3001$14.htmld
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+DASHBOARD #32
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+NAME: PAHO Procurement Dashboard
+BUSINESS AREA: Procurement
+TAGS: Projects
+Product
+PMA
+DESCRIPTION: View purchase data by fund, category and supplier. Includes quick access to create purchase orders, receipts, and requisitions. Visualizes procurement data by fund, category, and supplier.
+URL: https://wd5.myworkday.com/paho/d/inst/23748$4/rel-task/3001$107.htmld#TABINDEX=0
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+================================================================================
+BUSINESS AREA: Procurement and Supply Management (PRO)
+TOTAL DASHBOARDS IN THIS AREA: 1
+================================================================================
+
+DASHBOARD #33
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+NAME: PRO Country Offices
+BUSINESS AREA: Procurement and Supply Management (PRO)
+TAGS: Country offices
+Metrics
+Monitoring
+Tracking
+Operational
+Decision
+DESCRIPTION: Overview of key performance and operational metrics for the Country Offices, facilitating monitoring and decision-making.
+URL: https://app.powerbi.com/groups/me/apps/18e002b5-1d49-435b-9405-662111cdc4d2/reports/16f0486a-2639-4986-97a0-f68fdf9f12b9/a0f193646bcf13975a91?experience=power-bi
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+================================================================================
+BUSINESS AREA: Resource Mobilization, ERP
+TOTAL DASHBOARDS IN THIS AREA: 2
+================================================================================
+
+DASHBOARD #34
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+NAME: RM Data Model
+BUSINESS AREA: Resource Mobilization, ERP
+TAGS: Funding Amounts
+Partner Contributions
+Category
+DESCRIPTION: This page provides an overview of total award amounts, number of awards, and partner contributions by category, year, and country for selected funds since 2016.
+URL: https://app.powerbi.com/groups/dec51e38-5135-43df-a664-8583743d85b1/reports/2f1bc19f-4d60-447a-8ce5-31cace80211e?experience=power-bi
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+DASHBOARD #35
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+NAME: VC Report
+BUSINESS AREA: Resource Mobilization, ERP
+TAGS: Resource
+Partner
+Contributions
+Projects
+DESCRIPTION: This page provides a summary of resource mobilization efforts, highlighting total partner contributions, number of partners, projects, and entity submissions within the reporting period.
+URL: https://app.powerbi.com/groups/dec51e38-5135-43df-a664-8583743d85b1/reports/3ccadaca-4df3-4d80-a5d2-ca66bcbe30d5?experience=power-bi
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+================================================================================
+COMPLETE SUMMARY BY BUSINESS AREA
+================================================================================
+
+ALL: 4 dashboards
+CO Administration: 1 dashboard
+Cost Center: 2 dashboards
+Enterprise Portal Administration and Development: 1 dashboard
+FRM: 2 dashboards
+HRM: 3 dashboards
+HSS - Health and Migration: 3 dashboards
+Human Resource: 1 dashboard
+ITS: 4 dashboards
+ITS Security: 2 dashboards
+MSP: 2 dashboards
+Planning, Budget and Evaluation: 5 dashboards
+Procurement: 2 dashboards
+Procurement and Supply Management (PRO): 1 dashboard
+Resource Mobilization, ERP: 2 dashboards
+
+TOTAL: 35 dashboards
+
+================================================================================
+VERIFICATION - LIST OF ALL DASHBOARD NAMES
+================================================================================
+
+1. Budget Activities 2024-2025 (Business Area: CO Administration)
+2. PAHO - Daily Monitoring (Business Area: ITS)
+3. PAHO - Power BI Monitor Usage - V2 (Business Area: ITS)
+4. Power BI Workspace Report (Business Area: ITS)
+5. Cost Center HR Information (Workday) (Business Area: Human Resource)
+6. PAHO Administrators Dashboard (Business Area: Cost Center)
+7. PBE BWP Dashboard (Business Area: Planning, Budget and Evaluation)
+8. PBE Dashboards (Business Area: Planning, Budget and Evaluation)
+9. Country Office Administrators Dashboard (Business Area: Cost Center)
+10. PRO Country Offices (Business Area: Procurement and Supply Management (PRO))
+11. Data Quality Monitoring (Business Area: MSP)
+12. Loans and Donations (Business Area: MSP)
+13. CorrespondenceTrackingReport (Business Area: Enterprise Portal Administration and Development)
+14. RM Data Model (Business Area: Resource Mobilization, ERP)
+15. VC Report (Business Area: Resource Mobilization, ERP)
+16. SM_Literatura_eng (Business Area: HSS - Health and Migration)
+17. SM_MarcosPoliticos_eng (Business Area: HSS - Health and Migration)
+18. SM_SistemasInformacion_eng (Business Area: HSS - Health and Migration)
+19. Def_v3.11 (Business Area: ITS Security)
+20. PAHO - Vulnerability Management Dashboard (Business Area: ITS Security)
+21. PBE – Output Budget to Actuals (Business Area: Planning, Budget and Evaluation)
+22. PBE - Project Plan Task Budget to Actuals (Business Area: Planning, Budget and Evaluation)
+23. PBE - Project (PS) Status and Comments (Business Area: Planning, Budget and Evaluation)
+24. PAHO-PRO-505 Open Purchase Order Lines (Business Area: Procurement)
+25. PAHO-FIN-601 Find Spend Authorizations (Business Area: FRM)
+26. PAHO-FIN-205 Find Journal Lines with Status (Business Area: FRM)
+27. PAHO - Find Workers (Business Area: HRM)
+28. PAHO HRM Mandatory Courses Status (Business Area: HRM)
+29. PAHO Administrator Dashboard (Business Area: HRM)
+30. PAHO Procurement Dashboard (Business Area: Procurement)
+31. PMIS Useful Reports (Business Area: ALL)
+32. PAHO PWRs and Center Directors (Business Area: ALL)
+33. PAHO HQ, Country Office and Center Administrators (Business Area: ALL)
+34. Countries / Centers (Intranet Resource) (Business Area: ALL)
+35. Tables rows Traking (Business Area: ITS)
+
+================================================================================
+END OF CATALOG
+================================================================================
